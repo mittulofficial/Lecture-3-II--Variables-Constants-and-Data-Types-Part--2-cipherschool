@@ -15,6 +15,6 @@ int main()
     b=5;
     int c;
     c=a+b;
-    cout<<c;
+    cout<<"a+b";
     
 }
